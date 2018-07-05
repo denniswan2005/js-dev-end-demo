@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 71615529,
+      "firstName": "Juana",
+      "lastName": "Bosco",
+      "email": "Nick.Kessler@gmail.com"
+    },
+    {
+      "id": 15062658,
+      "firstName": "Joesph",
+      "lastName": "Breitenberg",
+      "email": "Viola61@yahoo.com"
+    },
+    {
+      "id": 70033530,
+      "firstName": "Myrtis",
+      "lastName": "Hegmann",
+      "email": "Shyanne_Stokes54@hotmail.com"
+    },
+    {
+      "id": 24565035,
+      "firstName": "Branson",
+      "lastName": "Steuber",
+      "email": "Austyn_Corkery@gmail.com"
+    }
+  ]
+}

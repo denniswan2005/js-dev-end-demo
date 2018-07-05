@@ -29,6 +29,6 @@ getUsers().then(result => {
       deleteUser(element.attributes["data-id"].value);
       const row = element.parentNode.parentNode;
       row.parentNode.removeChild(row);
-    };
+   };
   });
 });
